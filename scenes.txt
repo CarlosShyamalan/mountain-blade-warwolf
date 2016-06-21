@@ -1,0 +1,946 @@
+scenesfile version 1
+ 236
+scn_random_scene random_scene 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ 0 
+scn_conversation_scene conversation_scene 0 encounter_spot bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_water water 0 none none -1000.000000 -1000.000000 1000.000000 1000.000000 -0.500000 0 
+  0 
+  0 
+ 0 
+scn_random_scene_steppe random_scene_steppe 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000032c6f93930004f12700006ece0000216500000d15 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_scene_plain random_scene_plain 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000032c6f93930004f12700006ece0000216500000d15 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_snow random_scene_snow 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000034c6f93930004f1270000030c0000216500000d15 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_scene_desert random_scene_desert 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000035c6466130004f127000065cf00002165000022e8 
+  0 
+  0 
+ outer_terrain_desert 
+scn_random_scene_steppe_forest random_scene_steppe_forest 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000003bc72ec470004f1270000634a00002165000022e8 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_plain_forest random_scene_plain_forest 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000003bc72ec470004f1270000634a00002165000022e8 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_snow_forest random_scene_snow_forest 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000003cc72ec470004f127000031d800002165000022e8 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_scene_desert_forest random_scene_desert_forest 1792 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000035c72ec470004f1270000268400002165000022e8 
+  0 
+  0 
+ outer_terrain_desert 
+scn_camp_scene camp_scene 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000333c9d2c6800cd73100001bc6000069b500005d69 
+  0 
+  0 
+ outer_terrain_plain 
+scn_camp_scene_horse_track camp_scene_horse_track 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000334e9cb52000cd73100001bc6000069b500005d69 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_plain_forest2 random_scene_plain_forest2 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000002bc684be300065e1700003ed2000025e300002221 
+  0 
+  0 
+ outer_terrain_plain 
+scn_four_ways_inn four_ways_inn 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000030015f2b000350d4000011a4000017ee000054af 
+  0 
+  0 
+ outer_terrain_town_thir_1 
+scn_test_scene test_scene 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0230817a00028ca300007f4a0000479400161992 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_1 quick_battle_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x30401ee300059966000001bf0000299a0000638f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_salt_mine salt_mine 256 none none -200.000000 -200.000000 200.000000 200.000000 -100.000000 0x2a07b23200025896000023ee00007f9c000022a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_novice_ground novice_ground 1 training_house_a bo_training_house_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_zendar_arena zendar_arena 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_dhorak_keep dhorak_keep 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x33a7946000028ca300007f4a0000479400161992 
+  1  100000 
+  0 
+ 0 
+scn_reserved4 reserved4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 28791 
+  0 
+  0 
+ 0 
+scn_reserved5 reserved5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 117828 
+  0 
+  0 
+ 0 
+scn_reserved6 reserved6 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 6849 
+  0 
+  0 
+ 0 
+scn_reserved7 reserved7 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 6849 
+  0 
+  0 
+ 0 
+scn_reserved8 reserved8 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 13278 
+  0 
+  0 
+ 0 
+scn_reserved9 reserved9 1 thirsty_lion bo_thirsty_lion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_reserved10 reserved10 0 none none -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_reserved11 reserved11 0 none none -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_reserved12 reserved12 1 thirsty_lion bo_thirsty_lion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_training_ground training_ground 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x30000500400360d80000189f00002a8380006d91 
+  0 
+  2  1042  1043 
+ outer_terrain_plain 
+scn_tutorial_1 tutorial_1 1 tutorial_1_scene bo_tutorial_1_scene -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_tutorial_2 tutorial_2 1 tutorial_2_scene bo_tutorial_2_scene -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_tutorial_3 tutorial_3 1 tutorial_3_scene bo_tutorial_3_scene -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_tutorial_4 tutorial_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x30000500400360d80000189f00002a8380006d91 
+  0 
+  0 
+ outer_terrain_plain 
+scn_tutorial_5 tutorial_5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x3a06dca80005715c0000537400001377000011fe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_1 training_ground_horse_track_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000337553240004d53700000c0500002a0f80006267 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_2 training_ground_horse_track_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000301553240004d5370000466000002a0f800073f1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_3 training_ground_horse_track_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000400c12b2000515470000216b0000485e00006928 
+  0 
+  0 
+ outer_terrain_snow 
+scn_training_ground_horse_track_4 training_ground_horse_track_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000200b60320004a5290000180d0000452f00000e90 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_5 training_ground_horse_track_5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000003008208e0006419000000f730000440f00003c86 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_1 training_ground_ranged_melee_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000001350455c20005194a000041cb00005ae800000ff5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_2 training_ground_ranged_melee_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000532c8dccb0005194a000041cb00005ae800001bdd 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_3 training_ground_ranged_melee_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000054327dcba0005194a00001b1d00005ae800004d63 
+  0 
+  0 
+ outer_terrain_snow 
+scn_training_ground_ranged_melee_4 training_ground_ranged_melee_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000012247dcba0005194a000041ef00005ae8000050af 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_5 training_ground_ranged_melee_5 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000001324a9cba0005194a000041ef00005ae800003c55 
+  0 
+  0 
+ outer_terrain_plain 
+scn_zendar_center zendar_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+  3  47  0  48 
+  0 
+ outer_terrain_plain 
+scn_the_happy_boar the_happy_boar 1 interior_town_house_f bo_interior_town_house_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  46 
+  1  1041 
+ 0 
+scn_zendar_merchant zendar_merchant 1 interior_town_house_i bo_interior_town_house_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_field_1 field_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000033a059a5a0009525600002005000060e300001175 
+  0 
+  0 
+ outer_terrain_plain 
+scn_field_2 field_2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000033a079a3f000a3a8000006dfd000030a100006522 
+  0 
+  0 
+ outer_terrain_plain 
+scn_field_3 field_3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x30054da28004050000005a76800022aa00002e3b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_field_4 field_4 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x30054da28004050000005a76800022aa00002e3b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_field_5 field_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x30054da28004050000005a76800022aa00002e3b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_test2 test2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000b0078cb20003fd0000005e480000288c0000286f 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_test3 test3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000b00511d98004b12e0000039f00004e6300005c7d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multi_scene_1 multi_scene_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023007a3b20005795e0000706d0000381800000bbc 
+  0 
+  0 
+ sea_outer_terrain_1 
+scn_random_multi_plain_medium random_multi_plain_medium 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x000000033c6005004006c62500003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_plain_large random_multi_plain_large 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x000000033c6005004006c62500003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_steppe_medium random_multi_steppe_medium 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x000000033c6005004006c62500003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_steppe_large random_multi_steppe_large 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x00000000408305e30006c625000033bd000065b400002904 
+  0 
+  0 
+ outer_terrain_snow 
+scn_multiplayer_maps_end multiplayer_maps_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_wedding wedding 1 castle_h_interior_a bo_castle_h_interior_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_quick_battle_scene_1 quick_battle_scene_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000023002dee300045d1d000001bf0000299a0000638f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_2 quick_battle_scene_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000250001d630005114300006228000053bf00004eb9 
+  0 
+  0 
+ outer_terrain_desert_b 
+scn_quick_battle_scene_3 quick_battle_scene_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000023002b76300046d2400000190000076300000692a 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_4 quick_battle_scene_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000025a00f23700057d5f00006d6a000050ba000036df 
+  0 
+  0 
+ outer_terrain_desert_b 
+scn_quick_battle_scene_5 quick_battle_scene_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000012007985300055550000064d500005c060000759e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_maps_end quick_battle_maps_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_tutorial_training_ground tutorial_training_ground 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000003000050000046d1b0000189f00002a8380006d91 
+  0 
+  0 
+ outer_terrain_plain 
+scn_meeting_scene_steppe meeting_scene_steppe 0 none bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_plain meeting_scene_plain 0 ch_meet_plain_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_snow meeting_scene_snow 0 ch_meet_snow_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_desert meeting_scene_desert 0 ch_meet_desert_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_steppe_forest meeting_scene_steppe_forest 0 ch_meet_steppe_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_plain_forest meeting_scene_plain_forest 0 ch_meet_plain_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_snow_forest meeting_scene_snow_forest 0 ch_meet_snow_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_meeting_scene_desert_forest meeting_scene_desert_forest 0 ch_meet_desert_a bo_encounter_spot -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_molda_jungle_1 molda_jungle_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x3a078bb2000589630000667200002fb90000179c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_duel_sea duel_sea 256 none none 0.000000 0.000000 450.000000 450.000000 -0.500000 0x0000000030000000c00d2348000000008000000000000000 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_duel_plain duel_plain 256 none none 0.000000 0.000000 450.000000 450.000000 -0.500000 0x000000073000050040043d0a000000000000000000000000 
+  0 
+  0 
+ outer_terrain_plain 
+scn_duel_snow duel_snow 256 none none 0.000000 0.000000 450.000000 450.000000 -0.500000 0x000000044464c8d1400d23480000530700007b430000254d 
+  0 
+  0 
+ outer_terrain_snow 
+scn_duel_desert duel_desert 256 none none 0.000000 0.000000 450.000000 450.000000 -0.500000 0x000000045464c8d1400d23480000530700007b430000254d 
+  0 
+  0 
+ outer_terrain_desert 
+scn_conv_camp conv_camp 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000004350515194002308c000008c70000136600003b1c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_conv_camp_desert conv_camp_desert 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000004550515194002308c000008c70000136600003b1c 
+  0 
+  0 
+ outer_terrain_desert 
+scn_conv_camp_snow conv_camp_snow 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000004450515190002308c00002c040000136600003b1c 
+  0 
+  0 
+ outer_terrain_snow 
+scn_conv_camp_sea conv_camp_sea 256 none none 0.000000 0.000000 450.000000 450.000000 -0.500000 0x0000000730000500000691a200005299000033cc00006e1f 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_ex_bedroom ex_bedroom 1 ex_bedroom bo_ex_bedroom -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_fuck_place fuck_place 1 arabian_ground_a bo_arabian_ground_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_molda_siege_mission_plain molda_siege_mission_plain 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000720e0120040054952000050db00006001000076c0 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_molda_siege_mission_plain_desert molda_siege_mission_plain_desert 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000720e0120040054952000050db00006001000076c0 
+  0 
+  0 
+ outer_terrain_desert 
+scn_molda_siege_mission_plain_snow molda_siege_mission_plain_snow 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000720e0120040054952000050db00006001000076c0 
+  0 
+  0 
+ outer_terrain_snow 
+scn_molda_siege_mission_urt molda_siege_mission_urt 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000323201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_molda_siege_mission_teepee molda_siege_mission_teepee 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000323201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_molda_siege_mission_jap_1 molda_siege_mission_jap_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000720e01200c0054952000050db00006001000076c0 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_8_tavern_arab_1 8_tavern_arab_1 1 8_tavern_arab_1 bo_8_tavern_arab_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_tavern_asia 8_tavern_asia 1 8_tavern_roma_1 bo_8_tavern_roma_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_tavern_euro_1 8_tavern_euro_1 1 8_tavern_euro_1 bo_8_tavern_euro_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_tavern_roma_1 8_tavern_roma_1 1 8_tavern_roma_1 bo_8_tavern_roma_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_tavern_wood 8_tavern_wood 1 8_tavern_wood bo_8_tavern_wood -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_tavern_urt_1 8_tavern_urt_1 1 8_0_ground bo_8_0_ground -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_tavern_teepee_1 8_tavern_teepee_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000723201216c0054952000002df0000038700007600 
+  1  100000 
+  0 
+ outer_terrain_steppe 
+scn_8_vill_plain 8_vill_plain 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_plain 
+scn_8_vill_desert 8_vill_desert 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_desert 
+scn_8_vill_snow 8_vill_snow 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_snow 
+scn_8_vill_urt 8_vill_urt 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000323201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_8_vill_teepee 8_vill_teepee 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000323201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_8_vill_jap 8_vill_jap 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000720e01200c0054952000050db00006001000076c0 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_molda_scn_end molda_scn_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ 0 
+scn_8_hall_arab_1 8_hall_arab_1 1 8_hall_arab_1 bo_8_hall_arab_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_arab_2 8_hall_arab_2 1 8_hall_arab_2 bo_8_hall_arab_2 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_asia 8_hall_asia 1 8_hall_euro_2 bo_8_hall_euro_2 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_euro_1 8_hall_euro_1 1 8_hall_euro_1 bo_8_hall_euro_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_euro_2 8_hall_euro_2 1 8_hall_euro_2 bo_8_hall_euro_2 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_euro_3 8_hall_euro_3 1 8_hall_euro_3 bo_8_hall_euro_3 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_greek 8_hall_greek 1 8_hall_roma_1 bo_8_hall_roma_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_roma_1 8_hall_roma_1 1 8_hall_roma_1 bo_8_hall_roma_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_viking_1 8_hall_viking_1 1 8_hall_viking_1 bo_8_hall_viking_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_wood_1 8_hall_wood_1 1 8_hall_wood_1 bo_8_hall_wood_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_urt_1 8_hall_urt_1 1 8_0_ground bo_8_0_ground -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_8_hall_teepee_1 8_hall_teepee_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000723201216c0054952000002df0000038700007600 
+  1  100000 
+  0 
+ outer_terrain_steppe 
+scn_8_prison_arab_1 8_prison_arab_1 1 8_prison_arab_1 bo_8_prison_arab_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_asia 8_prison_asia 1 8_prison_asia bo_8_prison_asia -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_euro 8_prison_euro 1 8_prison_euro bo_8_prison_euro -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_wood_1 8_prison_wood_1 1 8_prison_wood_1 bo_8_prison_wood_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_urt_1 8_prison_urt_1 1 8_0_ground bo_8_0_ground -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_teepee_1 8_prison_teepee_1 1 8_0_ground bo_8_0_ground -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_arab_1_for_castle 8_prison_arab_1_for_castle 1 8_prison_arab_1 bo_8_prison_arab_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_asia_for_castle 8_prison_asia_for_castle 1 8_prison_asia bo_8_prison_asia -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_euro_for_castle 8_prison_euro_for_castle 1 8_prison_euro bo_8_prison_euro -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_wood_1_for_castle 8_prison_wood_1_for_castle 1 8_prison_wood_1 bo_8_prison_wood_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_urt_1_for_castle 8_prison_urt_1_for_castle 1 8_0_ground bo_8_0_ground -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_prison_teepee_1_for_castle 8_prison_teepee_1_for_castle 1 8_0_ground bo_8_0_ground -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_8_arena_plain 8_arena_plain 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_8_arena_desert 8_arena_desert 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000050001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ outer_terrain_desert 
+scn_8_arena_snow 8_arena_snow 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000040001d9340031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ outer_terrain_snow 
+scn_8_arena_roma 8_arena_roma 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_8_arena_no_fence 8_arena_no_fence 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_9_battle_random_plain 9_battle_random_plain 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000334875393c004f127000078b7000039e100000d15 
+  0 
+  0 
+ outer_terrain_plain 
+scn_9_battle_random_snow 9_battle_random_snow 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000344875393c004f127000078b7000039e100000d15 
+  0 
+  0 
+ outer_terrain_snow 
+scn_9_battle_random_desert 9_battle_random_desert 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000354875393c004f127000078b7000039e100000d15 
+  0 
+  0 
+ outer_terrain_desert 
+scn_9_battle_random_mount_plain 9_battle_random_mount_plain 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000003bc74ea534004f127000015f40000216500000d15 
+  0 
+  0 
+ outer_terrain_plain 
+scn_9_battle_random_mount_snow 9_battle_random_mount_snow 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000003cc74ea534004f127000015f40000216500000d15 
+  0 
+  0 
+ outer_terrain_snow 
+scn_9_battle_random_mount_desert 9_battle_random_mount_desert 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000035c74ea534004f127000015f40000216500000d15 
+  0 
+  0 
+ outer_terrain_desert 
+scn_molda_sea_battle_1 molda_sea_battle_1 256 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000007300005000005e97600004912800053ec0000202b 
+  0 
+  0 
+ sea_outer_terrain_2 
+scn_ex_meetroom ex_meetroom 1 ex_bedroom bo_ex_bedroom -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_ruin_dun_askia ruin_dun_askia 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007500005000005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_desert 
+scn_ruin_dun_impaler ruin_dun_impaler 1 8_hall_euro_3 bo_8_hall_euro_3 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_ruin_dun_shaver ruin_dun_shaver 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_ruin_dun_shiva_blade ruin_dun_shiva_blade 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_ruin_dun_sun_blade ruin_dun_sun_blade 1 8_prison_arab_1 bo_8_prison_arab_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_kidnapper_fight kidnapper_fight 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_rebel_wooden_fort rebel_wooden_fort 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_ruin_dun_evil_spirits_armor ruin_dun_evil_spirits_armor 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000720e01200c0054952000050db00006001000076c0 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_ruin_dun_dracul_armor ruin_dun_dracul_armor 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_bandit_leader_hideout bandit_leader_hideout 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_fortress_ruins fortress_ruins 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_farm_defence farm_defence 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_protect_family_house protect_family_house 1 8_hall_wood_1 bo_8_hall_wood_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_insult_woman insult_woman 1 8_tavern_roma_1 bo_8_tavern_roma_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_camp_assassination camp_assassination 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000004350515194002308c000008c70000136600003b1c 
+  0 
+  0 
+ outer_terrain_plain 
+scn_family_exterminate_house family_exterminate_house 1 8_hall_wood_1 bo_8_hall_wood_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_assassinate_mission assassinate_mission 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000007300005004005354d000060ae00006cbf0000509e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_protect_caravan protect_caravan 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000003a0792320005cd6c000000cb0000598f000062ff 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_battle_p formation_battle_p 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013323c7944006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_battle_d formation_battle_d 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_battle_s formation_battle_s 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_lion_p formation_lion_p 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013323c7944006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_lion_d formation_lion_d 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_lion_s formation_lion_s 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_pincer_p formation_pincer_p 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013323c7944006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_pincer_d formation_pincer_d 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_pincer_s formation_pincer_s 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_mangudai_p formation_mangudai_p 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013323c7944006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_mangudai_d formation_mangudai_d 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_mangudai_s formation_mangudai_s 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_encamp_p formation_encamp_p 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013003c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_encamp_d formation_encamp_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015003c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_encamp_s formation_encamp_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014003c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_8door_p formation_8door_p 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013003c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_8door_d formation_8door_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015003c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_8door_s formation_8door_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014003c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_backatt_p formation_backatt_p 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013323c7944006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_backatt_d formation_backatt_d 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_backatt_s formation_backatt_s 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_sideatt_p formation_sideatt_p 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013323c7944006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_sideatt_d formation_sideatt_d 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_sideatt_s formation_sideatt_s 768 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_formation_briver_p formation_briver_p 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000013323c7944006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_formation_briver_d formation_briver_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000015323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_desert 
+scn_formation_briver_s formation_briver_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000014323c7940006298a00000b1200000fc800002954 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_forest battle_tile_forest 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000230034b0b0004c5f4000078a600000d89000042c3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_cliff battle_tile_cliff 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000002342c36ba0004f1f200006acc00004cd1000054b4 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_cliff_d battle_tile_cliff_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000002542c36ba0004f1f200006acc00004cd1000054b4 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_cliff_s battle_tile_cliff_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000002442c36ba0004f1f200006acc00004cd1000054b4 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_submerge battle_tile_submerge 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000335c8372a800509450000654500000f0100007521 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_submerge_s battle_tile_submerge_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000345c8372a800509450000654500000f0100007521 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_firework battle_tile_firework 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000233258c940004e9ed000065700000712000006e94 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_lure battle_tile_lure 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000000392c24b20004892800002fcc0000407000004e16 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_lure_d battle_tile_lure_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000000592c24b20004892800002fcc0000407000004e16 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_lure_s battle_tile_lure_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000000492c24b20004892800002fcc0000407000004e16 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_ambush battle_tile_ambush 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000033c68a6480004c5b800004e7800004974000046d3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_ambush_s battle_tile_ambush_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000034c68a6480004c5b800004e7800004974000046d3 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_bridge battle_tile_bridge 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000032c795950004f19000007a720000120600000d59 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_bridge_d battle_tile_bridge_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000052c795950004f19000007a720000120600000d59 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_bridge_s battle_tile_bridge_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000042c795950004f19000007a720000120600000d59 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_farm battle_tile_farm 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000073000050000043d45000036990000293c00001ca8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_valley battle_tile_valley 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000023c71722f00066597000017b60000454d00002ea9 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_valley_d battle_tile_valley_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000025c71722f00066597000017b60000454d00002ea9 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_valley_s battle_tile_valley_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000024c71722f00066597000017b60000454d00002ea9 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_snakepass_new battle_tile_snakepass_new 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000003a07b2320004390d000069a1000052cc000071d1 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_snakepass_new_d battle_tile_snakepass_new_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000005a07b2320004390d000069a1000052cc000071d1 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_snakepass_new_s battle_tile_snakepass_new_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000004a07b2320004390d000069a1000052cc000071d1 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_village battle_tile_village 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_village_desert battle_tile_village_desert 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_village_snow battle_tile_village_snow 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_village_jap battle_tile_village_jap 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000720e01200c0054952000050db00006001000076c0 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_village_urt battle_tile_village_urt 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000323201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_village_teepee battle_tile_village_teepee 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000323201216c0054952000002df0000038700007600 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_siege_valley battle_tile_siege_valley 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000063000050000080601000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_siege_valley_d battle_tile_siege_valley_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000065000050000080601000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_siege_valley_s battle_tile_siege_valley_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000064000050000080601000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_snow 
+scn_battle_tile_siege_harbor battle_tile_siege_harbor 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000006300005000005053e000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_beach 
+scn_battle_tile_siege_highland battle_tile_siege_highland 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000006300005000005053e000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_battle_tile_siege_highland_d battle_tile_siege_highland_d 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000006500005004005053e000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_desert 
+scn_battle_tile_siege_highland_s battle_tile_siege_highland_s 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000006400005004005053e000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_snow 
+scn_molda_siege_fortruin molda_siege_fortruin 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x00000006300005000005053e000039db00007af20000350a 
+  0 
+  0 
+ outer_terrain_beach 
+scn_hideout_bed hideout_bed 1 ex_bedroom bo_ex_bedroom -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_hideout_comp hideout_comp 1 8_tavern_euro_1 bo_8_tavern_euro_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_hideout_slave hideout_slave 1 8_prison_euro bo_8_prison_euro -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_hideout_torture hideout_torture 1 8_prison_asia bo_8_prison_asia -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_brothel brothel 1 8_tavern_euro_1 bo_8_tavern_euro_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_pit_arena pit_arena 1 8_hall_viking_1 bo_8_hall_viking_1 -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+  1  100000 
+  0 
+ 0 
+scn_public_bath public_bath 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x000000003a07b232000258960000013c00001fe100006dff 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_scene_for_capture scene_for_capture 256 none none 0.000000 0.000000 200.000000 200.000000 -0.500000 0x0000000730000500000258960000158600000bf1000053cc 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_all_scene_end all_scene_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000723201216c0054952000002df0000038700007600 
+  0 
+  0 
+ 0 

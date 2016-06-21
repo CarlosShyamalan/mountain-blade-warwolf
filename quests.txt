@@ -1,0 +1,4 @@
+questsfile version 1
+2
+qst_deliver_message nnn 2 nnn 
+qst_quests_end Quests_End 0 {!}. 

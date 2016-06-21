@@ -1,0 +1,9 @@
+partytemplatesfile version 1
+7
+pt_none none 2 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_rescued_prisoners Rescued_Prisoners 2 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_enemy Enemy 2 0 89 7 -1 -1 -1 -1 -1 -1 
+pt_kingdom_hero_party War_Party 4276226 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_bandit_party Bandits 4276233 0 1 312 -1 -1 -1 -1 -1 -1 
+pt_caravan_party Traders 4276230 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_pirate_party Pirates 4276233 0 1 312 -1 -1 -1 -1 -1 -1 
